@@ -3,7 +3,7 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://rancidfrog.github.io/starter/'
+  siteurl: "http://rancidfrog.github.io/starter/"
   relativeLinks: 'http://rancidfrog.github.io/starter/links.jsonp'
   media: 'media'
   metadata:
